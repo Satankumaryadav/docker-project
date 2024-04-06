@@ -18,7 +18,9 @@ You have also been asked to publish this image on your organization's Docker Hub
 You must use the following:
 
 Docker CLI: To create the Docker image using a Dockerfile
+
 Docker Hub: To publish the image
+
 Kubectl: To deploy the image on a Kubernetes cluster
  
 
@@ -26,4 +28,5 @@ Following requirements should be met:
 
 Follow the above-mentioned specifications
 Make sure you create an account on Docker Hub to push the Docker image
+
 Document the step-by-step process involved in completing this task
